@@ -90,3 +90,4 @@ ENS: `andrecrypto.base.eth`
 ## 📝 License
 
 This project is licensed under the MIT License.
+Breve terá mais atualizações e funcionalidadees, aguarde ;)
