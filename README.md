@@ -90,4 +90,5 @@ ENS: `andrecrypto.base.eth`
 ## 📝 License
 
 This project is licensed under the MIT License.
-Breve terá mais atualizações e funcionalidadees, aguarde 
+Breve terá mais atualizações e funcionalidadees, aguarde ....
+Inclui um passo a passo para criar um app igualzinho a este ;)
