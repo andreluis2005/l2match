@@ -1,0 +1,34 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwMDYzMzksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhCQjRCMUZBMzJFQTA5RTIyMEZkN0U3RkQ4MUEyZTBkRTk2MDM4YTU0In0",
+    "payload": "eyJkb21haW4iOiJsMm1hdGNoLnZlcmNlbC5hcHAifQ",
+    "signature": "MHgzMmNlODA2NzE2NjFhOTQ2NzI1Y2Y3YTMzY2RlZWYzYWUwMzFjOTc5ZGFiMWVlZGYyOThiNGU3MjUxZmRlNmNjNTU2YmU2ODQwMGI2ODA2NDVlZTc5YzljMTk4M2ZjYjFkN2NjNjk0NDU0OGEyOTJhNmQ1YWNlYzkwYzI4MGU4YTFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Which L2 Are You?",
+    "homeUrl": "https://l2match.vercel.app",
+    "iconUrl": "https://l2match.vercel.app/logo.png",
+    "splashImageUrl": "https://l2match.vercel.app/splashImageUrl.png",
+    "splashBackgroundColor": "#FFFFFF",
+    "subtitle": "Fun L2 Personality Quiz",
+    "description": "Take this quiz to find out which Layer 2 blockchain matches your personality! Fun and insightful for blockchain enthusiasts.",
+    "screenshotUrls": [
+      "https://l2match.vercel.app/screenshot1.png",
+      "https://l2match.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "games",
+    "tags": ["quiz", "blockchain", "l2", "fun", "personality"],
+    "tagline": "Discover Your L2 Match",
+    "ogTitle": "Which L2 Are You?",
+    "ogDescription": "Find out which Layer 2 blockchain matches your personality with this fun quiz.",
+    "noindex": false,
+    "buttons": [
+      {
+        "title": "Start Quiz",
+        "action": "link",
+        "target": "https://l2match.vercel.app"
+      }
+    ]
+  }
+}
